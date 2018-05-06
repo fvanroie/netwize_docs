@@ -2,8 +2,8 @@
    :maxdepth: 2
    :caption: List of features
 
-   ps-opnsense
-   mqttv
+   PS_OPNsense: <http://netwize.readthedocs.io/projects/ps-opnsense/en/master/>
+   mqtTV <http://netwize.readthedocs.io/projects/mqtttv/>
 
 ----
 Demo
@@ -12,8 +12,12 @@ Demo
 Hello World
 
 Projects:
-- PS_OPNsense_
-- mqtTV_
+
+PowerShell Modules:
+    - PS_OPNsense_
+
+Python:
+    - mqtTV_
 
 .. _PS_OPNsense: http://netwize.readthedocs.io/projects/ps-opnsense/en/master/
 .. _mqtTV: http://netwize.readthedocs.io/projects/mqtttv/
