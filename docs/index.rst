@@ -1,13 +1,12 @@
 .. toctree::
    :maxdepth: 2
-   :caption: List of features
+   :caption: Projects
 
-   PS_OPNsense: <http://netwize.readthedocs.io/projects/ps-opnsense/en/master/>
-   mqtTV <http://netwize.readthedocs.io/projects/mqtttv/>
+   projects/*
 
-----
-Demo
-----
+-----
+Index
+-----
 
 Hello World
 
